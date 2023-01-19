@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a Pet Identification and Registration Project
-- 🌱 I’m currently learning more about iOS development
+- 🔭 I’m currently working as an iOS Developer
+- 🌱 I’m currently learning about Machine Learning
 - 💬 Ask me about the weather
 
 #### Main Skills
